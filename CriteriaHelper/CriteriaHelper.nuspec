@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>CriteriaHelper</id>
+    <version>1.4.0</version>
+    <title>Criteria Helper</title>
+    <authors>Raphael Heitor</authors>
+    <owners>Tribunal de Contas do Estado de Rondônia</owners>
+    <licenseUrl>http://www.tce.ro.gov.br</licenseUrl>
+    <projectUrl>http://www.tce.ro.gov.br</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Helper para Criteria do Nhibernate</description>
+    <releaseNotes>Primeira Versão do Nuget.</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>criteria helper nhibernate</tags>
+  </metadata>
+</package>
